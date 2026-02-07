@@ -164,8 +164,3 @@ GET /api/match/jobs
 Employer Register → Login → Create Job → Logout
 
 Candidate Register → Login → Upload Resume → View Matched Jobs
-
-👨‍💻 Author
-
-Arpit Menaria
-Full Stack Developer
